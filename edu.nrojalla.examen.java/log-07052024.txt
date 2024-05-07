@@ -1,0 +1,76 @@
+07/05/2024 13:49:58- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 13:50:10- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 13:50:14- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 13:50:24- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 13:50:42- Menu consultas, Opcion elegida : 3 - Fisioterapia
+07/05/2024 13:51:06- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 13:50:32- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 13:51:10- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 13:51:14- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 13:51:44- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 13:49:57- Menu Principal, Opcion elegida : 2 Menu cliente
+07/05/2024 13:50:12- Menu Principal, Opcion elegida : 1 - Menu empleado
+07/05/2024 13:50:26- Menu Principal, Opcion elegida : 2 Menu cliente
+07/05/2024 13:51:12- Menu Principal, Opcion elegida : 1 - Menu empleado
+07/05/2024 13:51:52- Menu Principal, Opcion elegida : 0 - Menu cerrado
+07/05/2024 14:09:23- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:09:42- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:09:45- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:09:52- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:10:02- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:10:11- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:10:21- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:10:27- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:10:45- Menu consultas, Opcion elegida : 1 - Psicología
+07/05/2024 14:11:15- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 14:10:39- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 14:11:19- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:11:25- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 14:17:33- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:17:41- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:17:45- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:17:48- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:18:11- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:18:17- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:18:19- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:18:23- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:18:28- Menu consultas, Opcion elegida : 1 - Psicología
+07/05/2024 14:18:47- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 14:18:25- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 14:18:49- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:18:53- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 14:19:00- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:18:09- Menu Principal, Opcion elegida : 2 Menu cliente
+07/05/2024 14:18:18- Menu Principal, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:18:24- Menu Principal, Opcion elegida : 2 Menu cliente
+07/05/2024 14:18:51- Menu Principal, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:19:01- Menu Principal, Opcion elegida : 0 - Menu cerrado
+07/05/2024 14:22:03- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:22:11- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:22:14- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:22:17- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:22:26- Menu consultas, Opcion elegida : 1 - Psicología
+07/05/2024 14:22:44- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 14:22:21- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 14:22:46- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:22:56- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:23:01- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 14:23:45- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:23:52- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:23:58- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:24:00- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:24:07- Menu consultas, Opcion elegida : 1 - Psicología
+07/05/2024 14:24:20- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 14:24:02- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 14:24:22- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:24:24- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 14:25:22- Menu Cliente, Opcion elegida : 1 - Registro cliente
+07/05/2024 14:25:28- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:25:30- Menu Empleado, Opcion elegida : 1 - Menu empleado
+07/05/2024 14:25:32- Menu Empleado, Opcion elegida : 0 - Volver
+07/05/2024 14:25:41- Menu consultas, Opcion elegida : 1 - Psicología
+07/05/2024 14:25:56- Menu consultas, Opcion elegida : 0 - Volver
+07/05/2024 14:25:34- Menu Cliente, Opcion elegida : 2 Solicitud cita medica
+07/05/2024 14:25:57- Menu Cliente, Opcion elegida : 0 - Volver
+07/05/2024 14:26:01- Menu Empleado, Opcion elegida : 2 Menu cliente
+07/05/2024 14:27:56- Menu Empleado, Opcion elegida : 2 Menu cliente
